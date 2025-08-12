@@ -1,7 +1,5 @@
 # solar-panel-inspection-dataset
 
-# Modified Dataset
-
 **Authors:** Ashen Rodrigo¹, Isuru Munasinghe², Asanka Perera³
 
 This dataset is a derivative work based on the [**solarpaneldataset**](https://universe.roboflow.com/solarpaneldataset/solarpanel-ggmtm) created by [solarpaneldataset]  
